@@ -1,17 +1,27 @@
 ### Hi there 👋
 
-Good day! I am Jung-Min Yoon who is interested in Communication Systems and Software Engineering from South Korea.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjungmin-yoon1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi there I'm Jung-Min Yoon!👋
 
-If you want to contact me, please leave me a message!
+ I am self-motivated graduate student currently performing research on Wireless Communication Networks/Systems and Software Engineering. I am especially interested in Communication Protocols (MAC Protocol).
 
-[Researching, Programming]
-- Self-motivated graduate student currently performing research on wireless communication networks/systems. 
-- Possess strong programming skills and mathematical skills with the ability to work under minimal supervision.
+I have project experience using C/C++, Python, and Matlab languages. I posses strong programming and mathematical skills with the ability to work under minimal supervision.
 
-
-[Research Interest]
+#### 🌱 Research Interest
 - Medium Access Control, Reconfigurable Intelligent Surface, Wireless Networks, Wi-Fi
 - Radio Frequency Identification, Cellular Networks, Wireless Networks, Machine Learning
+
+#### 🔭 Career 
+
+| **Type** | **Date** | **Contents** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **Education** | 2015.03 ~ 2021.02 | B.S in Department of Information and Communication Engineering | Inha University |
+| **Education** | 2021.03 ~ 2023.02 (expected) | M.S in Department of Electrical and Computer Engineering | Sungkyunkwan University |
+| **Research activity** | 2021.03 ~ 2023.02 (expected) | Graduate Research Student | Sungkyunkwan Univ. Network System Lab (NeSL) |
+
+If you want to contact me, please leave me a message.
+#### 📫 Contacts 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jmy139139@gmail.com)](mailto:jmy139139@gmail.com)    [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jung-min-yoon-a52845198/)](https://www.linkedin.com/in/jung-min-yoon-a52845198/)
 
 
 <!--
