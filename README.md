@@ -4,11 +4,13 @@ Good day! I am Jung-Min Yoon who is interested in Communication Systems and Soft
 
 If you want to contact me, please leave me a message!
 
--[Researching, Programming]
+[Researching, Programming]
+
 Self-motivated graduate student currently performing research on wireless communication networks/systems. 
 Possess strong programming skills and mathematical skills with the ability to work under minimal supervision.
 
--[Research Interest]
+[Research Interest]
+
 Medium Access Control, Reconfigurable Intelligent Surface, Wireless Networks, Wi-Fi
 Radio Frequency Identification, Cellular Networks, Wireless Networks, Machine Learning
 
