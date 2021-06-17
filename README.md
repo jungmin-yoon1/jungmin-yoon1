@@ -17,7 +17,7 @@ I have project experience using C/C++, Python, and Matlab languages. I posses st
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2015.03 ~ 2021.02 | B.S in Department of Information and Communication Engineering | Inha University |
 | **Education** | 2021.03 ~ 2023.02 (expected) | M.S in Department of Electrical and Computer Engineering | Sungkyunkwan University |
-| **Research activity** | 2021.03 ~ 2023.02 (expected) | Graduate Research Student | Sungkyunkwan Univ. Network System Lab (NeSL) |
+| **Research Activity** | 2021.03 ~ 2023.02 (expected) | Graduate Research Student | Sungkyunkwan Univ. Network System Lab (NeSL) |
 
 If you want to contact me, please leave me a message.
 #### 📫 Contacts 
