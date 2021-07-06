@@ -7,8 +7,8 @@
 I have project experience using C/C++, Python, and Matlab languages. I posses strong programming and mathematical skills with the ability to work under minimal supervision.
 
 #### 🌱 Research Interest
-- Medium Access Control, Reconfigurable Intelligent Surface, Wireless Networks, Wi-Fi
-- Radio Frequency Identification, Cellular Networks, Wireless Networks, Machine Learning
+- Medium Access Control, Wireless Networks(WLAN/WPAN), 5G/6G Networks, Internet of Things(IoT), V2X-Connected Car
+- Wi-Fi, RFID/NFC/Sensor/Ad hoc Networks, Cellular Networks, Reconfigurable Intelligent Surface, Machine Learning
 
 #### 🔭 Career 
 
