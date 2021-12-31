@@ -14,7 +14,8 @@ I have project experience using C/C++, Python, and Matlab languages. I posses st
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Research Activity** | 2021.03 ~ 2023.02 (expected) | Graduate Research Student | Sungkyunkwan Univ. Network System Lab (NeSL) |
+| **Career** | 2021.12 ~ Present | Research Scholarship Student | Hyundai MOBIS |
+| **Career** | 2021.03 ~ Present | Graduate Research Student | Network System Lab. (NeSL) |
 | **Education** | 2021.03 ~ 2023.02 (expected) | M.S in Department of Electrical and Computer Engineering | Sungkyunkwan University |
 | **Education** | 2015.03 ~ 2021.02 | B.S in Department of Information and Communication Engineering | Inha University |
 
